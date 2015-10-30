@@ -58,8 +58,11 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Tables" />
+    <Folder Include="Stored Procedures" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\Book.sql" />
+    <Build Include="Tables\Author.sql" />
+    <Build Include="Stored Procedures\GetBooks.sql" />
   </ItemGroup>
 </Project>

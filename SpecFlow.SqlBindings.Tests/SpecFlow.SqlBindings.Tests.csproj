@@ -6,8 +6,8 @@
     <ProjectGuid>{866D5518-1A00-43BF-8A8D-C5D0C5D41F62}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SpecFlow.SqlServer.Tests</RootNamespace>
-    <AssemblyName>SpecFlow.SqlServer.Tests</AssemblyName>
+    <RootNamespace>SpecFlow.SqlBindings.Tests</RootNamespace>
+    <AssemblyName>SpecFlow.SqlBindings.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -80,9 +80,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SpecFlow.SqlServer\SpecFlow.SqlServer.csproj">
+    <ProjectReference Include="..\SpecFlow.SqlBindings\SpecFlow.SqlBindings.csproj">
       <Project>{b0d3cb5f-89b0-4c8f-bfb8-df8483bce7d6}</Project>
-      <Name>SpecFlow.SqlServer</Name>
+      <Name>SpecFlow.SqlBindings</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

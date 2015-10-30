@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using TechTalk.SpecFlow;
 
-namespace SpecFlow.SqlServer
+namespace SpecFlow.SqlBindings
 {
 	[Binding]
 	public class QuerySteps

@@ -11,7 +11,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace SpecFlow.SqlServer.Tests
+namespace SpecFlow.SqlBindings.Tests
 {
     using TechTalk.SpecFlow;
     
@@ -49,7 +49,7 @@ namespace SpecFlow.SqlServer.Tests
             if (((TechTalk.SpecFlow.FeatureContext.Current != null) 
                         && (TechTalk.SpecFlow.FeatureContext.Current.FeatureInfo.Title != "Book Feature")))
             {
-                SpecFlow.SqlServer.Tests.BookFeatureFeature.FeatureSetup(null);
+                BookFeatureFeature.FeatureSetup(null);
             }
         }
         

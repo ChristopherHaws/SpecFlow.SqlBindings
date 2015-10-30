@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24606.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow.SqlServer.Tests", "SpecFlow.SqlServer.Tests\SpecFlow.SqlServer.Tests.csproj", "{866D5518-1A00-43BF-8A8D-C5D0C5D41F62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow.SqlBindings.Tests", "SpecFlow.SqlBindings.Tests\SpecFlow.SqlBindings.Tests.csproj", "{866D5518-1A00-43BF-8A8D-C5D0C5D41F62}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SpecFlow.SqlServer.Tests.Database", "SpecFlow.SqlServer.Tests.Database\SpecFlow.SqlServer.Tests.Database.sqlproj", "{AA0FECDB-38E1-40C7-BF05-824FE4930C8E}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SpecFlow.SqlBindings.Tests.Database", "SpecFlow.SqlBindings.Tests.Database\SpecFlow.SqlBindings.Tests.Database.sqlproj", "{AA0FECDB-38E1-40C7-BF05-824FE4930C8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow.SqlServer", "SpecFlow.SqlServer\SpecFlow.SqlServer.csproj", "{B0D3CB5F-89B0-4C8F-BFB8-DF8483BCE7D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow.SqlBindings", "SpecFlow.SqlBindings\SpecFlow.SqlBindings.csproj", "{B0D3CB5F-89B0-4C8F-BFB8-DF8483BCE7D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,8 +7,8 @@
     <ProjectGuid>{B0D3CB5F-89B0-4C8F-BFB8-DF8483BCE7D6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SpecFlow.SqlServer</RootNamespace>
-    <AssemblyName>SpecFlow.SqlServer</AssemblyName>
+    <RootNamespace>SpecFlow.SqlBindings</RootNamespace>
+    <AssemblyName>SpecFlow.SqlBindings</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
